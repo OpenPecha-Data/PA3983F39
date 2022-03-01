@@ -1,0 +1,502 @@
+id: PA3983F39
+initial_creation_type: input
+source_metadata:
+  title: Udānavarga
+  language: sa
+  volumes:
+    2f54b4e6fe4043fb8e28c0bf057fcd66:
+      title: CIII_Verses 1-10
+      base_file: CIII_Verses 1-10.txt
+      work_id: WBA05E057
+    7ee7e697a33544e1a54fee8b6785c204:
+      title: CIII_Verses 11-18
+      base_file: CIII_Verses 11-18.txt
+      work_id: W8577A866
+    3bc5bca9f2dc4631b17e13ddad74c957:
+      title: CII_Verses 1-10
+      base_file: CII_Verses 1-10.txt
+      work_id: W8EDA45D7
+    e123c8f1947c4be4a6e583b3a580f59e:
+      title: CII_Verses 11-20
+      base_file: CII_Verses 11-20.txt
+      work_id: W880E4482
+    2af389b6c6414538b365fbf9d95a7e89:
+      title: CIV_Verses 1-10
+      base_file: CIV_Verses 1-10.txt
+      work_id: W5587D24D
+    be736d3cc29641189905ba7f766eec3d:
+      title: CIV_Verses 11-20
+      base_file: CIV_Verses 11-20.txt
+      work_id: WD5308C05
+    d7c052783d6c41478055701e065fe51d:
+      title: CIV_Verses 21-30
+      base_file: CIV_Verses 21-30.txt
+      work_id: W09944D48
+    842e2b346cdf4b5e82bffaf0ae4fefbd:
+      title: CIV_Verses 31-38
+      base_file: CIV_Verses 31-38.txt
+      work_id: WBA8DF3FF
+    326010c372474bfbbcc88b2bdf1432a3:
+      title: CIX_Verses 1-10
+      base_file: CIX_Verses 1-10.txt
+      work_id: W8231540D
+    8b44b7cfd5a24deba6f136bd7e6ae82b:
+      title: CIX_Verses 11-19
+      base_file: CIX_Verses 11-19.txt
+      work_id: WF9E9E9AB
+    fbdea7c1356b4e9eae9888ea7bf0f850:
+      title: CI_Verses 1-10
+      base_file: CI_Verses 1-10.txt
+      work_id: W9A89B809
+    78376759df45464680b60d5ddf264e6f:
+      title: CI_Verses 11-20
+      base_file: CI_Verses 11-20.txt
+      work_id: W1C164167
+    d3c780f7a76d403eb5b20482064aa50f:
+      title: CI_Verses 21-30
+      base_file: CI_Verses 21-30.txt
+      work_id: W999B7B3D
+    5d4ca15f0c6c47c1aca14f4b9fc14d60:
+      title: CI_Verses 31-40
+      base_file: CI_Verses 31-40.txt
+      work_id: W7D6934A3
+    064817fcf0d14cd28e8a09a63592ac5c:
+      title: CI_Verses 41-42
+      base_file: CI_Verses 41-42.txt
+      work_id: W05C250B9
+    90eff28995234d8c8aeb2f5a03f04f57:
+      title: CVIII_Verses 1-10
+      base_file: CVIII_Verses 1-10.txt
+      work_id: WA2CCDA64
+    f6b2c7f3c18a46e0890106633af3b1b2:
+      title: CVIII_Verses 11-15
+      base_file: CVIII_Verses 11-15.txt
+      work_id: WADD343E2
+    328dbc34c15943778752bb6c42e9d9e3:
+      title: CVII_Verses 1-10
+      base_file: CVII_Verses 1-10.txt
+      work_id: W3BE450EA
+    61b23b7522bf4595849c2c42339c9ad0:
+      title: CVII_Verses 11-12
+      base_file: CVII_Verses 11-12.txt
+      work_id: WF4BF4BDD
+    ca1a86a6e53c43f3abefcd86c1030664:
+      title: CVI_Verses 1-10
+      base_file: CVI_Verses 1-10.txt
+      work_id: W0AD8F704
+    d8f950203c9c46f9b98cc95718860f6b:
+      title: CVI_Verses 11-20
+      base_file: CVI_Verses 11-20.txt
+      work_id: WD0ED5E7A
+    03d236608b9e488b8fd5f1ba96707340:
+      title: CV_Verses 1-10
+      base_file: CV_Verses 1-10.txt
+      work_id: WEC2EC8B8
+    d00100211d8d43b1b8909db44d4e3395:
+      title: CV_Verses 11-20
+      base_file: CV_Verses 11-20.txt
+      work_id: W07418AB2
+    1574e8de08574e1482cdcbf8ba144ed5:
+      title: CV_Verses 21-27
+      base_file: CV_Verses 21-27.txt
+      work_id: W8618C42F
+    d96f454c6e494788a4408fc5cc583301:
+      title: CXIII_Verses 1-10
+      base_file: CXIII_Verses 1-10.txt
+      work_id: W7C6AA267
+    0ca60154fdc648b680cb403aec110cf6:
+      title: CXIII_Verses 11-18
+      base_file: CXIII_Verses 11-18.txt
+      work_id: WA7C8C43C
+    a93eebcc2bc045e09a162006f09d0234:
+      title: CXII_Verses 1-10
+      base_file: CXII_Verses 1-10.txt
+      work_id: W2502A073
+    cd483181a3424138ae5e5b2de67494fb:
+      title: CXII_Verses 11-20
+      base_file: CXII_Verses 11-20.txt
+      work_id: W522EC244
+    394071e90f124dc0836b4ce9e93f3790:
+      title: CXIV_Verses 1-10
+      base_file: CXIV_Verses 1-10.txt
+      work_id: W78BE7EB9
+    c3c657da3a714f06965a5dff693ddaf0:
+      title: CXIV_Verses 11-16
+      base_file: CXIV_Verses 11-16.txt
+      work_id: W45BFEC70
+    f702ee877dbc46f18d4c26f13381923c:
+      title: CXIX_Verses 1-10
+      base_file: CXIX_Verses 1-10.txt
+      work_id: WD2160D45
+    33c528d7592e49d5a580d571f0a0339d:
+      title: CXIX_Verses 11-14
+      base_file: CXIX_Verses 11-14.txt
+      work_id: W80D2F444
+    8224221582f14c76bb287546dfcdac1d:
+      title: CXI_Verses 1-10
+      base_file: CXI_Verses 1-10.txt
+      work_id: W32E13B1B
+    189bed56d8bf43b59e42365961927cf3:
+      title: CXI_Verses 11-15
+      base_file: CXI_Verses 11-15.txt
+      work_id: WDE8D2D74
+    7d6496d0ef444f179b646cb9bbc7926a:
+      title: CXVIII_Verses 1-10
+      base_file: CXVIII_Verses 1-10.txt
+      work_id: W9F4A9801
+    8fc97c4fbea44b4c9366c316cd95370b:
+      title: CXVIII_Verses 11-20
+      base_file: CXVIII_Verses 11-20.txt
+      work_id: W49B47D90
+    d7fe3ebff494479d8ef8c5ef35b3c6d8:
+      title: CXVIII_Verses 21-21F
+      base_file: CXVIII_Verses 21-21F.txt
+      work_id: W30A4EAF6
+    7d62fd9a1b514409b7fba7597eb83fb5:
+      title: CXVII_Verses 1-10
+      base_file: CXVII_Verses 1-10.txt
+      work_id: W606AC4AB
+    ba3674aeac5945d7960890faa3d5a683:
+      title: CXVII_Verses 11-12
+      base_file: CXVII_Verses 11-12.txt
+      work_id: W5B8CFE53
+    83090989dd2d44adafed49f7823793e6:
+      title: CXVI_Verses 1-10
+      base_file: CXVI_Verses 1-10.txt
+      work_id: W1B7C3CB5
+    05ba982c11ac400ba532a100eee20bc9:
+      title: CXVI_Verses 11-20
+      base_file: CXVI_Verses 11-20.txt
+      work_id: W688C031E
+    d63b5235056848629c9ff5fe51b8cdf0:
+      title: CXVI_Verses 21-24
+      base_file: CXVI_Verses 21-24.txt
+      work_id: WA74027D8
+    fc971fbfe8134aeea12186c75e12fe8f:
+      title: CXV_Verses 1-10
+      base_file: CXV_Verses 1-10.txt
+      work_id: WF85294B5
+    0d7a3426bf17498981242d02bc08b305:
+      title: CXV_Verses 11-20
+      base_file: CXV_Verses 11-20.txt
+      work_id: WA3F5E27F
+    25fd19075a124b04a8388cf2b7d7cc95:
+      title: CXV_Verses 21-26
+      base_file: CXV_Verses 21-26.txt
+      work_id: WC1E90B95
+    e0539b44427b446a9d63c4cc8986267e:
+      title: CXXIII_Verses 1-10
+      base_file: CXXIII_Verses 1-10.txt
+      work_id: WE8EC2D70
+    ddb5e41bee2248bbb501396a74485b30:
+      title: CXXIII_Verses 11-20
+      base_file: CXXIII_Verses 11-20.txt
+      work_id: W827D9D5C
+    9b157ee3935347b996d09fe0cbac324b:
+      title: CXXIII_Verses 21-26
+      base_file: CXXIII_Verses 21-26.txt
+      work_id: W87A7BFE8
+    d4f2656bf4ea4b37931ef803830f939b:
+      title: CXXII_Verses 1-10
+      base_file: CXXII_Verses 1-10.txt
+      work_id: W05A076DD
+    d0453691d6a0450b859e7350b3216e12:
+      title: CXXII_Verses 11-19
+      base_file: CXXII_Verses 11-19.txt
+      work_id: W4EC0B894
+    6c5e749d77b14c569544d34747341255:
+      title: CXXIV_Verses 1-10
+      base_file: CXXIV_Verses 1-10.txt
+      work_id: WCA963B70
+    3ba65a87fdf74c8eace65602c35bfdd7:
+      title: CXXIV_Verses 11-20
+      base_file: CXXIV_Verses 11-20.txt
+      work_id: WF41353EA
+    3fea88d0248142be9a1414661cf741fb:
+      title: CXXIV_Verses 21-30
+      base_file: CXXIV_Verses 21-30.txt
+      work_id: W298B4840
+    e339906a17684be990144f80b882c9d4:
+      title: CXXIX_Verses 1-10
+      base_file: CXXIX_Verses 1-10.txt
+      work_id: W2202BB00
+    5e573745bac54f06b7d0fc89767e6b24:
+      title: CXXIX_Verses 11-20
+      base_file: CXXIX_Verses 11-20.txt
+      work_id: W2775FCFA
+    b9ef522897744ac89ef4588b072af28b:
+      title: CXXIX_Verses 21-30
+      base_file: CXXIX_Verses 21-30.txt
+      work_id: W90C91979
+    667ce619a92e459a999c4f6284783801:
+      title: CXXIX_Verses 31-40
+      base_file: CXXIX_Verses 31-40.txt
+      work_id: W314C42CC
+    8cc53688efb2439b86b64100e7eef2d6:
+      title: CXXIX_Verses 41-50
+      base_file: CXXIX_Verses 41-50.txt
+      work_id: WADBE5DE4
+    7ea98cc340304d7d8ba16c5ceb515116:
+      title: CXXIX_Verses 51-57
+      base_file: CXXIX_Verses 51-57.txt
+      work_id: W0490FF30
+    17ec518e75dc4c6988a4764ac8b2ee4e:
+      title: CXXI_Verses 1-10
+      base_file: CXXI_Verses 1-10.txt
+      work_id: W4A1135DE
+    2f9ac15c7818471abc34cf4e2cb29a46:
+      title: CXXI_Verses 11-18
+      base_file: CXXI_Verses 11-18.txt
+      work_id: WDBB4A8F8
+    8d75c4e24fec4c0e94b16312455ac26f:
+      title: CXXVIII_Verses 1-10
+      base_file: CXXVIII_Verses 1-10.txt
+      work_id: W3E4F094B
+    55ed28ae21d9421b930837b491c97fa3:
+      title: CXXVIII_Verses 11-20
+      base_file: CXXVIII_Verses 11-20.txt
+      work_id: WC82DD9F6
+    02cf81c391b748228a2b4f54934a5170:
+      title: CXXVIII_Verses 21-30
+      base_file: CXXVIII_Verses 21-30.txt
+      work_id: WA34FAB0D
+    a2f9aa40486c4b8b84e0cd237f4a00ed:
+      title: CXXVIII_Verses 31-40
+      base_file: CXXVIII_Verses 31-40.txt
+      work_id: WD6930D7D
+    e28233c786b649e9878854ffa32e40e8:
+      title: CXXVII_Verse 41
+      base_file: CXXVII_Verse 41.txt
+      work_id: W5A477E45
+    86e194e37a464c1e9f94047a887ca0ba:
+      title: CXXVII_Verses 1-10
+      base_file: CXXVII_Verses 1-10.txt
+      work_id: WF55EAE84
+    f985de078d624609a67917c6d46ce853:
+      title: CXXVII_Verses 11-20
+      base_file: CXXVII_Verses 11-20.txt
+      work_id: WD66D9011
+    740c29e5e0414ba3bf54a559e9735ff8:
+      title: CXXVII_Verses 21-30
+      base_file: CXXVII_Verses 21-30.txt
+      work_id: WF0845525
+    bfca6eefe2194152b1001dd993767e7c:
+      title: CXXVII_Verses 31-40
+      base_file: CXXVII_Verses 31-40.txt
+      work_id: WE4138C36
+    971efa6695474e27b5087acba0bbf6b2:
+      title: CXXVI_Verse 31
+      base_file: CXXVI_Verse 31.txt
+      work_id: WFEE94E74
+    3949f73ab6c94565afe007b1ce994749:
+      title: CXXVI_Verses 1-10
+      base_file: CXXVI_Verses 1-10.txt
+      work_id: W677A07A4
+    c6b53c2378b2433383308d88aee0749e:
+      title: CXXVI_Verses 11-20
+      base_file: CXXVI_Verses 11-20.txt
+      work_id: WE189A2BA
+    58af0ffd3a8243988ffabb63ef57f8f7:
+      title: CXXVI_Verses 21-30
+      base_file: CXXVI_Verses 21-30.txt
+      work_id: W1C5ADCA9
+    6e4b71b909d14360900e2867ce7e9e36:
+      title: CXXV_Verses 1-10
+      base_file: CXXV_Verses 1-10.txt
+      work_id: W00AB0B3D
+    668a553470dc42bda043eb6ccebbdb65:
+      title: CXXV_Verses 11-20
+      base_file: CXXV_Verses 11-20.txt
+      work_id: W4F0FB802
+    f84a9efb8c1e4c039e5787e337ba8208:
+      title: CXXV_Verses 21-25
+      base_file: CXXV_Verses 21-25.txt
+      work_id: W755D7780
+    52ad758117fc4a1a8777d0cf422b26ff:
+      title: CXXXIII_Verses 1-10
+      base_file: CXXXIII_Verses 1-10.txt
+      work_id: W86AC4FA8
+    9cf28f1ff34740778d987ad3f8ea4112:
+      title: CXXXIII_Verses 11-20
+      base_file: CXXXIII_Verses 11-20.txt
+      work_id: W6D799DA0
+    4739051c14a74908aa44ea0a62b820a1:
+      title: CXXXIII_Verses 21-30
+      base_file: CXXXIII_Verses 21-30.txt
+      work_id: WA67B673A
+    35e4dd68a70441818658268fa093560c:
+      title: CXXXIII_Verses 31-40
+      base_file: CXXXIII_Verses 31-40.txt
+      work_id: W64E5EEFC
+    87adb6626db04312a5dc74f55d79060c:
+      title: CXXXIII_Verses 41-50
+      base_file: CXXXIII_Verses 41-50.txt
+      work_id: WD71424E7
+    94e8407394394f71b8753dbc5e96c85c:
+      title: CXXXIII_Verses 51-60
+      base_file: CXXXIII_Verses 51-60.txt
+      work_id: W3740F984
+    45e2d05e745b466298564dadeb0e5720:
+      title: CXXXIII_Verses 61-70
+      base_file: CXXXIII_Verses 61-70.txt
+      work_id: W79C82BC2
+    28a0d095d3be4cbab0bf7ba010682304:
+      title: CXXXIII_Verses 71-80
+      base_file: CXXXIII_Verses 71-80.txt
+      work_id: WCDF82340
+    ba35b6a0d5fa4b9096d77a01dd300733:
+      title: CXXXIII_Verses 81-83
+      base_file: CXXXIII_Verses 81-83.txt
+      work_id: W5F3E3A80
+    3041988833e44144aee0ccdc0561fc45:
+      title: CXXXII_Verses 1-10
+      base_file: CXXXII_Verses 1-10.txt
+      work_id: W4C86CF6C
+    078216c1f8e047dcb984f9b981750e05:
+      title: CXXXII_Verses 11-20
+      base_file: CXXXII_Verses 11-20.txt
+      work_id: W6E9C633E
+    818ea36fed6747d08ee5da0ecee15b9c:
+      title: CXXXII_Verses 21-30
+      base_file: CXXXII_Verses 21-30.txt
+      work_id: W482BC42E
+    f4895b6acc9840d0a95cf4f6aa82edb4:
+      title: CXXXII_Verses 31-40
+      base_file: CXXXII_Verses 31-40.txt
+      work_id: W3BCD5BB7
+    afde4f9af1df41b3a01a89c6b089fe90:
+      title: CXXXII_Verses 41-50
+      base_file: CXXXII_Verses 41-50.txt
+      work_id: W4B44E829
+    baebab9f39944167b8018cf0ff859207:
+      title: CXXXII_Verses 51-60
+      base_file: CXXXII_Verses 51-60.txt
+      work_id: W2AFBF224
+    7d26ab3ac33041848f394c642d330b08:
+      title: CXXXII_Verses 61-70
+      base_file: CXXXII_Verses 61-70.txt
+      work_id: W7AC0314B
+    9c762eba413e4149bad1f3213a6c4cde:
+      title: CXXXII_Verses 71-80
+      base_file: CXXXII_Verses 71-80.txt
+      work_id: W4A33EC8E
+    bbffd8357e504e71a2b29475fd8d9175:
+      title: CXXXII_Verses 81-82
+      base_file: CXXXII_Verses 81-82.txt
+      work_id: WCEC0D71D
+    d6a98f1d7fe14edca1fad1f18b93a38d:
+      title: CXXXI_Verses 1-10
+      base_file: CXXXI_Verses 1-10.txt
+      work_id: WA0022FC1
+    1d58d7ed4cf2436fb102d89cf1509b2b:
+      title: CXXXI_Verses 11-20
+      base_file: CXXXI_Verses 11-20.txt
+      work_id: WF75BBDEF
+    d1d1814f3af24434842d29ed381092ad:
+      title: CXXXI_Verses 21-30
+      base_file: CXXXI_Verses 21-30.txt
+      work_id: W0E91ED2E
+    72ec677868a94a8ea25587212af59ed5:
+      title: CXXXI_Verses 31-40
+      base_file: CXXXI_Verses 31-40.txt
+      work_id: W6AA6416C
+    8688bd27da6f4b508960d7dbdfccae0a:
+      title: CXXXI_Verses 41-50
+      base_file: CXXXI_Verses 41-50.txt
+      work_id: W4F7C69E5
+    b2b79cfd2a7743989ac5b96bf488d91b:
+      title: CXXXI_Verses 51-60
+      base_file: CXXXI_Verses 51-60.txt
+      work_id: W240CED06
+    39d154ba5ce34e9ba9af1fa9031ded56:
+      title: CXXX_Verses 1-10
+      base_file: CXXX_Verses 1-10.txt
+      work_id: WB42BFFB5
+    06e2e893954a46ed817361ee029a273f:
+      title: CXXX_Verses 11-20
+      base_file: CXXX_Verses 11-20.txt
+      work_id: WBA327B97
+    87d54903862f4012a21a9fb4c945e5fb:
+      title: CXXX_Verses 21-30
+      base_file: CXXX_Verses 21-30.txt
+      work_id: W067C6E98
+    de3c3db712f44c468de938e19d81bdd4:
+      title: CXXX_Verses 31-40
+      base_file: CXXX_Verses 31-40.txt
+      work_id: W030CD99B
+    22eaaaefdd6348f58ff04243e8d37fce:
+      title: CXXX_Verses 41-50
+      base_file: CXXX_Verses 41-50.txt
+      work_id: W9D314897
+    1cb3ab87990b4766a2cf6b6df7b18837:
+      title: CXXX_Verses 51-52
+      base_file: CXXX_Verses 51-52.txt
+      work_id: W305EA105
+    5486fb471f164bf8be6449881c7486e8:
+      title: CXX_Verses 1-10
+      base_file: CXX_Verses 1-10.txt
+      work_id: W6B99E4B9
+    fb0d13fca57a4b4aac9d5698026bd8ea:
+      title: CXX_Verses 11-20
+      base_file: CXX_Verses 11-20.txt
+      work_id: W57480D7C
+    a8902d1ca7924512a57f011854426a25:
+      title: CXX_Verses 21-22
+      base_file: CXX_Verses 21-22.txt
+      work_id: W931F31FF
+    6c6fea4db8ba411da33f97c4068ad35f:
+      title: CX_Verses 1-10
+      base_file: CX_Verses 1-10.txt
+      work_id: WAFB71298
+    9fd77452088048069720efa7a59cb127:
+      title: CX_Verses 11-16
+      base_file: CX_Verses 11-16.txt
+      work_id: WFB86E74C
+    7f4069e54a17442cbe90379471fdf68c:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: WD0D4099C
+    95dbfb664efb43b39f9e7a9bd5826af0:
+      title: Preface
+      base_file: Preface.txt
+      work_id: WAB717B54
+    b9212f2420ab407888acc9eb20b2dea6:
+      title: Title
+      base_file: Title.txt
+      work_id: WC4EC448C
+  chapter_to_tile:
+    CI: 'Chapter I: Anityavarga'
+    CII: 'Chapter II: Kāmavarga'
+    CIII: 'Chapter III: Tṛṣṇāvarga'
+    CIV: 'Chapter IV: Apramādavarga'
+    CV: 'Chapter V: Priyavarga'
+    CVI: 'Chapter VI: Śīlavarga'
+    CVII: 'Chapter VII: Sucaritavarga'
+    CVIII: 'Chapter VIII: Vācavarga'
+    CIX: 'Chapter IX: Karmavarga'
+    CX: 'Chatper X: Śraddhāvarga'
+    CXI: 'Chapter XI: Śramaṇavarga'
+    CXII: 'Chapter XII: Mārgavarga'
+    CXIII: 'Chapter XIII: Satkāravarga'
+    CXIV: 'Chapter XIV: Drohavarga'
+    CXV: 'Chapter XV: Smṛtivarga'
+    CXVI: 'Chapter XVI: Prakīrṇakavarga'
+    CXVII: 'Chapter XVII: Udakavarga'
+    CXVIII: 'Chapter XXIII: Puṣpavarga'
+    CXIX: 'Chapter XIX: Aśvavarga'
+    CXX: 'Chapter XX: Krodhavarga'
+    CXXI: 'Chapter XXI: Tathāgatavarga'
+    CXXII: 'Chapter XXII: Śrutavarga'
+    CXXIII: 'Chapter XXIII: Ātmavarga'
+    CXXIV: 'Chapter XXIV: Peyālavarga'
+    CXXV: 'Chapter XXV: Mitravarga'
+    CXXVI: 'Chapter XXVI: Nirvāṇavarga'
+    CXXVII: 'Chapter XXVII: Paśyavarga'
+    CXXVIII: 'Chapter XXVIII: Pāpavarga'
+    CXXIX: 'Chapter XXIX: Yugavarga'
+    CXXX: 'Chapter XXX: Sukhavarga'
+    CXXXI: 'Chapter XXXI: Cittavarga'
+    CXXXII: 'Chapter XXXII: Bhikṣuvarga'
+    CXXXIII: 'Chapter XXXIII: Brāhmaṇavarga'
+created_at: '2022-03-01T23:21:00.397929'
+last_modified_at: '2022-03-01T23:21:00.397936'
